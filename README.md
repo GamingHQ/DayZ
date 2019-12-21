@@ -11,6 +11,10 @@ GamingHQ has a DayZ server active running with several mods, These mods will be 
 
 The code you find here are not fully completed. These coding we provide are pure EXAMPLES of what you could reach as goal. You will still have to implent them yourself. 
 
+### Other information board
+
+Check out our other information boards that we use to share our knownledge and coding, script examples of plugins we use that you can use for your gameserver as well. Information about mods we dont have installed but are supported by us will also be found in these "boards". Keep in mind, these mods are not made by us or anything. We only provide informational content for educational as well for personal use purposes only. These will mostlikly be settings for certain plugins that comes with other plugins like airdrop upgraded for example for more loot options for the online game DayZ.
+
 ## This board contains as follow
 
 * Plugins explaining
